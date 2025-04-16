@@ -1,2 +1,2 @@
 # mugas
-microphysics in noble gas detector
+Microphysics in noble gas detector.
